@@ -1,0 +1,9 @@
+- learn python	>	expert level
+- plan
+	- write data analysis program for daily time spending
+	- convert the excel files to google docs
+	- create an API on top of it
+	- expose over internet
+	- call this from other location
+	- make a website on it
+	- make an app on it
